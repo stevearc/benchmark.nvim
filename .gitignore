@@ -39,3 +39,8 @@ luac.out
 *.x86_64
 *.hex
 
+plugins/
+tmp/
+scripts/nvim_doc_tools
+scripts/nvim-typecheck-action
+venv/
